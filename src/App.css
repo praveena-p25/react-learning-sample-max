@@ -1,0 +1,16 @@
+.home{
+  background: black;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  min-height: 200px;
+}
+.header{
+  position: fixed;
+  top: 0;
+}
+
+footer{
+  position: fixed;
+  bottom: 0;
+}
